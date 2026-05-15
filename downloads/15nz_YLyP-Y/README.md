@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `15nz_YLyP-Y` |
-| **Size** | 1.04 MB |
+| **Size** | 1.03 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
